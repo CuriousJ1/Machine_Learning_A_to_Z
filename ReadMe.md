@@ -1,3 +1,3 @@
 # Machine Learning A-Z Course
 
-Will be partaking in this course using Pycharm and TDD to develop these toolkits and not relying on Notebooks.
+Partaking in this course using Pycharm and TDD to develop on framworks and ML toolkits whilst not relying on Notebooks.
